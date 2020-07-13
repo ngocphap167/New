@@ -1,0 +1,227 @@
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\FormChinh.exe
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\FormChinh.pdb
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Form1.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Properties.Resources.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.GenerateResource.Cache
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.pdb
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHACUNGCAP.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csprojResolveAssemblyReference.cache
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmKHACHHANG.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHANVIEN.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOAISANPHAM.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmSANPHAM.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONBAN.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\Interop.VBIDE.dll
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.ResolveComReference.cache
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\FormChinh.exe.config
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBaocaosanpham.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONNHAP.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\FormChinh.exe.manifest
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\FormChinh.application
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe.manifest
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.application
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\RdlCompile.cache
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\RdlCompile.compiled
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.ldf
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.mdf
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon_log.ldf
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOGIN.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMSANPHAM.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMKHACHHANG.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBAOCAODOANHTHU.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmADDTAIKHOAN.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMHOADON.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmLOADING.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmBIEUDO.resources
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMNHANVIEN.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.ResolveComReference.cache
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Form1.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmADDTAIKHOAN.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmBIEUDO.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONBAN.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONNHAP.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmKHACHHANG.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOAISANPHAM.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOGIN.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHACUNGCAP.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHANVIEN.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmSANPHAM.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMHOADON.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMKHACHHANG.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMNHANVIEN.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMSANPHAM.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBAOCAODOANHTHU.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBaocaosanpham.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmLOADING.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Properties.Resources.resources
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe
+C:\Users\PC\Downloads\Compressed\ĐỒ ÁN KẾT THÚC MÔN\VISUAL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.pdb
+D:\C#\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.ldf
+D:\C#\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.mdf
+D:\C#\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon_log.ldf
+D:\C#\FormChinh\FormChinh\bin\Debug\FormChinh.exe.config
+D:\C#\FormChinh\FormChinh\bin\Debug\FormChinh.exe.manifest
+D:\C#\FormChinh\FormChinh\bin\Debug\FormChinh.application
+D:\C#\FormChinh\FormChinh\bin\Debug\FormChinh.exe
+D:\C#\FormChinh\FormChinh\bin\Debug\FormChinh.pdb
+D:\C#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\FlashControlV71.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\FormChinh\FormChinh\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csprojAssemblyReference.cache
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\Interop.VBIDE.dll
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.ResolveComReference.cache
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Form1.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmADDTAIKHOAN.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmBIEUDO.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONBAN.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONNHAP.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmKHACHHANG.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOAISANPHAM.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOGIN.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHACUNGCAP.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHANVIEN.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmSANPHAM.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMHOADON.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMKHACHHANG.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMNHANVIEN.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMSANPHAM.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBAOCAODOANHTHU.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBaocaosanpham.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmLOADING.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Properties.Resources.resources
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.GenerateResource.cache
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.CoreCompileInputs.cache
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe.manifest
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.application
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.CopyComplete
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe
+D:\C#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.pdb
+F:\c#\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.ldf
+F:\c#\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.mdf
+F:\c#\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon_log.ldf
+F:\c#\FormChinh\FormChinh\bin\Debug\FormChinh.exe.config
+F:\c#\FormChinh\FormChinh\bin\Debug\FormChinh.exe.manifest
+F:\c#\FormChinh\FormChinh\bin\Debug\FormChinh.application
+F:\c#\FormChinh\FormChinh\bin\Debug\FormChinh.exe
+F:\c#\FormChinh\FormChinh\bin\Debug\FormChinh.pdb
+F:\c#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.Shared.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\EntityFramework.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\EntityFramework.SqlServer.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\FlashControlV71.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\EntityFramework.xml
+F:\c#\FormChinh\FormChinh\bin\Debug\EntityFramework.SqlServer.xml
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csprojAssemblyReference.cache
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\Interop.VBIDE.dll
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.ResolveComReference.cache
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Form1.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmADDTAIKHOAN.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmBIEUDO.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONBAN.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONNHAP.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmKHACHHANG.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOAISANPHAM.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOGIN.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHACUNGCAP.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHANVIEN.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmSANPHAM.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMHOADON.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMKHACHHANG.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMNHANVIEN.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMSANPHAM.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBAOCAODOANHTHU.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBaocaosanpham.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmLOADING.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Properties.Resources.resources
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.GenerateResource.cache
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.CoreCompileInputs.cache
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe.manifest
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.application
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.CopyComplete
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe
+F:\c#\FormChinh\FormChinh\obj\x86\Debug\FormChinh.pdb
+F:\c#\FormChinh\FormChinh\bin\Debug\log4net.dll
+F:\c#\FormChinh\FormChinh\bin\Debug\log4net.xml
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.ldf
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon.mdf
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\do-an-ket-thuc-mon_log.ldf
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\FormChinh.exe.config
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\FormChinh.exe.manifest
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\FormChinh.application
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\FormChinh.exe
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\FormChinh.pdb
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\FlashControlV71.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\log4net.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\bin\Debug\log4net.xml
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Form1.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmADDTAIKHOAN.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmBIEUDO.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONBAN.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmHOADONNHAP.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmKHACHHANG.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOAISANPHAM.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmLOGIN.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHACUNGCAP.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmNHANVIEN.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmSANPHAM.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMHOADON.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMKHACHHANG.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMNHANVIEN.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.FORM.frmTIMKIEMSANPHAM.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBAOCAODOANHTHU.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmBaocaosanpham.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.frmLOADING.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe.manifest
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.application
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.exe
+C:\Users\admin\Documents\GitHub\SQL\FormChinh\FormChinh\obj\x86\Debug\FormChinh.pdb

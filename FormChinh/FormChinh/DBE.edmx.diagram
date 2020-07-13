@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9d7e338996b34f288db6f6613d6c0ba5" Name="Diagram1">
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.LOAISANPHAM" Width="1.5" PointX="0.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.NHACUNGCAP" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.sysdiagram" Width="1.5" PointX="7.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblAccount" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblChiTietHDBan" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblChiTietHDNhap" Width="1.5" PointX="5.25" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblHang" Width="1.5" PointX="3" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblHDBan" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblHDNhap" Width="1.5" PointX="3" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblKhach" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DOANKETTHUCMONModel.tblNhanVien" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblHang__maLoai__22AA2996" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblHDNhap__maNCC__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblAccoun__Manha__1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblChiTie__Mahan__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblChiTie__MaHDB__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblChiTie__Mahan__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblChiTie__MaHDN__21B6055D" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblHDBan__Makhac__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblHDBan__Manhan__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="DOANKETTHUCMONModel.FK__tblHDNhap__Manha__267ABA7A" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F2C61FB9-6DE6-4A61-9557-FFD710AEDD7C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FormChinh</RootNamespace>
+    <AssemblyName>FormChinh</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Lập trình nâng cao\ĐỒ ÁN KẾT THÚC MÔN\New folder1\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>doanketthuc</ProductName>
+    <PublisherName>Swift Learn</PublisherName>
+    <SuiteName>Swift Learn</SuiteName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8101F27602ED9AAF376AC325204728FBF2B947AA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>FormChinh_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\CrystalDecisions.CrystalReports.Engine.1.0.0\lib\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\CrystalDecisions.ReportSource.1.0.0\lib\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\CrystalDecisions.Shared.1.0.0\lib\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\packages\CrystalDecisions.Windows.Forms.1.0.0\lib\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <HintPath>..\packages\CrystalReports.FlashControlV71.13.0.3501\lib\net20\FlashControlV71.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.1.2.10\lib\2.0\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.10.0.40219.1\lib\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <HintPath>..\packages\CrystalReports.FlashControlV71.13.0.3501\lib\net20\ShockwaveFlashObjects.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.Ribbon35">
+      <HintPath>.\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBE.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBE.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DBE.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DBE.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBE.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DOT\ADMIN.cs" />
+    <Compile Include="DOT\button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DOT\functions.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmADDTAIKHOAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmADDTAIKHOAN.Designer.cs">
+      <DependentUpon>frmADDTAIKHOAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmBIEUDO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmBIEUDO.Designer.cs">
+      <DependentUpon>frmBIEUDO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmHOADONBAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmHOADONBAN.Designer.cs">
+      <DependentUpon>frmHOADONBAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmHOADONNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmHOADONNHAP.Designer.cs">
+      <DependentUpon>frmHOADONNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmKHACHHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmKHACHHANG.Designer.cs">
+      <DependentUpon>frmKHACHHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmLOAISANPHAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmLOAISANPHAM.Designer.cs">
+      <DependentUpon>frmLOAISANPHAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmLOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmLOGIN.Designer.cs">
+      <DependentUpon>frmLOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmNHACUNGCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmNHACUNGCAP.Designer.cs">
+      <DependentUpon>frmNHACUNGCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmNHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmNHANVIEN.Designer.cs">
+      <DependentUpon>frmNHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmSANPHAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmSANPHAM.Designer.cs">
+      <DependentUpon>frmSANPHAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMHOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMHOADON.Designer.cs">
+      <DependentUpon>frmTIMKIEMHOADON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMKHACHHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMKHACHHANG.Designer.cs">
+      <DependentUpon>frmTIMKIEMKHACHHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMNHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMNHANVIEN.Designer.cs">
+      <DependentUpon>frmTIMKIEMNHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMSANPHAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM\frmTIMKIEMSANPHAM.Designer.cs">
+      <DependentUpon>frmTIMKIEMSANPHAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBAOCAODOANHTHU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBAOCAODOANHTHU.Designer.cs">
+      <DependentUpon>frmBAOCAODOANHTHU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBaocaosanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaocaosanpham.Designer.cs">
+      <DependentUpon>frmBaocaosanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLOADING.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLOADING.Designer.cs">
+      <DependentUpon>frmLOADING.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOAISANPHAM.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NHACUNGCAP.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblAccount.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblChiTietHDBan.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblChiTietHDNhap.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblHang.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblHDBan.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblHDNhap.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblKhach.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblNhanVien.cs">
+      <DependentUpon>DBE.tt</DependentUpon>
+    </Compile>
+    <Compile Include="_do_an_ket_thuc_monDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_do_an_ket_thuc_monDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmADDTAIKHOAN.resx">
+      <DependentUpon>frmADDTAIKHOAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmBIEUDO.resx">
+      <DependentUpon>frmBIEUDO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmHOADONBAN.resx">
+      <DependentUpon>frmHOADONBAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmHOADONNHAP.resx">
+      <DependentUpon>frmHOADONNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmKHACHHANG.resx">
+      <DependentUpon>frmKHACHHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmLOAISANPHAM.resx">
+      <DependentUpon>frmLOAISANPHAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmLOGIN.resx">
+      <DependentUpon>frmLOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmNHACUNGCAP.resx">
+      <DependentUpon>frmNHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmNHANVIEN.resx">
+      <DependentUpon>frmNHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmSANPHAM.resx">
+      <DependentUpon>frmSANPHAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmTIMKIEMHOADON.resx">
+      <DependentUpon>frmTIMKIEMHOADON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmTIMKIEMKHACHHANG.resx">
+      <DependentUpon>frmTIMKIEMKHACHHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmTIMKIEMNHANVIEN.resx">
+      <DependentUpon>frmTIMKIEMNHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM\frmTIMKIEMSANPHAM.resx">
+      <DependentUpon>frmTIMKIEMSANPHAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBAOCAODOANHTHU.resx">
+      <DependentUpon>frmBAOCAODOANHTHU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBaocaosanpham.resx">
+      <DependentUpon>frmBaocaosanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLOADING.resx">
+      <DependentUpon>frmLOADING.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="app.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <EntityDeploy Include="DBE.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DBE.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DBE.edmx.diagram">
+      <DependentUpon>DBE.edmx</DependentUpon>
+    </None>
+    <None Include="FormChinh_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\Web_login_form.webp" />
+    <None Include="_do_an_ket_thuc_monDataSet.xsc">
+      <DependentUpon>_do_an_ket_thuc_monDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_do_an_ket_thuc_monDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_do_an_ket_thuc_monDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_do_an_ket_thuc_monDataSet.xss">
+      <DependentUpon>_do_an_ket_thuc_monDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_document_add_48755.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Close_1891023.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_compose_1055085.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_file_3131963.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_friend_finder_101840.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_gtk-refresh_48111.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_free-27_616650.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_document-new_38981.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icon-person-add_211872.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_plus_16_22608.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit-to-app_326635.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_file-manager_17904.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_28363.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit-to-app_3266351.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_draw-eraser_79752.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_gtk-refresh_481111.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_view-refresh_118801.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_packing_49602.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_search_173095.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DBE.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DBE.edmx</DependentUpon>
+      <LastGenOutput>DBE.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DBE.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DBE.edmx</DependentUpon>
+      <LastGenOutput>DBE.cs</LastGenOutput>
+    </Content>
+    <Content Include="do-an-ket-thuc-mon.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>do-an-ket-thuc-mon.mdf</DependentUpon>
+    </Content>
+    <Content Include="do-an-ket-thuc-mon.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="do-an-ket-thuc-mon_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>do-an-ket-thuc-mon.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\100.gif" />
+    <None Include="Resources\dark-black-login-form-design-with-creative-ui-vector-14301478.jpg" />
+    <None Include="Resources\pngtree-box-icon-for-your-project-png-image_4851888.jpg" />
+    <None Include="Resources\ky-hieu-thung-giay-01.jpg" />
+    <None Include="Resources\loading-animations-preloader-gifs-ui-ux-effects-10.gif" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\Web_login_form %281%29.jpg" />
+    <None Include="Resources\login-form-page-with-blurred-background-web-site-vector-4252370.jpg" />
+    <None Include="Resources\Web_login_form.jpg" />
+    <None Include="Resources\giphy.gif" />
+    <None Include="Resources\iphone-12-flip-xtmobile.jpg" />
+    <None Include="Resources\best-camera-phones-2019_thumb800-768x432.jpg" />
+    <None Include="Resources\logo.jpg" />
+    <None Include="Resources\samsung-galaxy-fold-2-100816103-large.jpg" />
+    <None Include="Resources\ezgif-4-71f091259204.gif" />
+    <None Include="Resources\Untitled-5.jpg" />
+    <None Include="Resources\Untitled-4.jpg" />
+    <None Include="Resources\Untitled-3.jpg" />
+    <None Include="Resources\Untitled-2.jpg" />
+    <None Include="Resources\pngtree-invoice-icon-design-vector-png-image_1586820.jpg" />
+    <None Include="Resources\if_plus_16_226081.ico" />
+    <None Include="Resources\if_userconfig_73881.ico" />
+    <None Include="Resources\Untitled-1.jpg" />
+    <None Include="Resources\unnamed.jpg" />
+    <None Include="Resources\if_icon-101-folder-search_314678.ico" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\icon-quy-trinh-de-xuat-goi-thiet-ke-logo-thuong-hieu-phu-hop-baa-brand-400x400.png" />
+    <None Include="Resources\i_tc2.png" />
+    <None Include="Resources\i_tc1.png" />
+    <None Include="Resources\i_tc.png" />
+    <None Include="Resources\Icon-blue.png" />
+    <None Include="Resources\unnamed1.png" />
+    <None Include="Resources\unnamed.png" />
+    <None Include="Resources\Untitled-11.png" />
+    <None Include="Resources\Untitled-1.png" />
+    <None Include="Resources\photo1531328765843-15313287658441785133714.gif" />
+    <None Include="Resources\Curve-Loading.gif" />
+    <None Include="Resources\hqdefault1.jpg" />
+    <None Include="Resources\hqdefault.jpg" />
+    <None Include="Resources\if_view-refresh_1188011.ico" />
+    <None Include="Resources\mau-login - Copy.jpg" />
+    <None Include="Resources\if_userconfig_7388.ico" />
+    <None Include="Resources\if_Login_73221.ico" />
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
